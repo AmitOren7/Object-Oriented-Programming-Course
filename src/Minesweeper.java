@@ -1,6 +1,6 @@
 import java.lang.Math;
 import java.util.Scanner;
-
+//second commit
 public class Minesweeper {
     static Scanner sc = new Scanner(System.in);
     public static int[][] hiddenBoard = new int[9][9];
