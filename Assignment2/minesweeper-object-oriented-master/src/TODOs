@@ -1,0 +1,4 @@
+TODO:
+    change toString methods to display: display value;
+    edit hiddenValue to represent the real value that will be added
+    implement the game mechanics: enter row and column and run method in Game Class

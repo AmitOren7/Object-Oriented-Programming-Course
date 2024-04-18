@@ -1,0 +1,19 @@
+customer ID	Employee ID 	Type
+1	20	Sales													
+8	5	Technical													
+29	37	Technical													
+30	44	Technical													
+32	14	Sales													
+6	49	Sales													
+7	46	Technical													
+9	48	Sales													
+6	1	Technical													
+44	16	Sales													
+9	3	Technical													
+27	4	Technical													
+29	17	Sales													
+42	4	Technical													
+26	20	Sales													
+15	24	Sales													
+16	50	Sales													
+43	23	Technical													

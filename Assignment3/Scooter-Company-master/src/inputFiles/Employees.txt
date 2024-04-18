@@ -1,0 +1,51 @@
+ID	Profession	Name	age	gender	comm rate for sale	shirt size
+1	Technical	Jessica	72	f		x
+2	Technical	Olivia	30	f		m
+3	Technical	Hannah	52	f		m
+4	Technical	Emma	24	f		m
+5	Technical	Sophie	27	f		l
+6	Technical	Grace	54	f		s
+7	Technical	Ella	35	f		m
+8	Technical	Emily	64	f		l
+9	Technical	Sarah	38	f		s
+10	Sales	Georgia	19	f	0.024921734	s
+11	Sales	Charlotte	72	f	0.070749046	l
+12	Sales	Caitlin	23	f	0.054671673	l
+13	Sales	Samantha	22	f	0.089749296	m
+14	Sales	Paige	21	u	0.148860783	s
+15	Sales	Lucy	66	f	0.140146566	s
+16	Sales	Isabella	58	f	0.012598999	m
+17	Sales	Jack	46	m	0.279093175	m
+18	Sales	Samuel	56	m	0.051498143	x
+19	Sales	Thomas	58	m	0.021545845	l
+20	Sales	Benjamin	30	m	0.095142551	x
+21	Technical	James	43	m		l
+22	Technical	Jacob	42	m		m
+23	Technical	Liam	48	m		x
+24	Sales	Matthew	34	m	0.135514007	m
+25	Sales	Jade	27	m	0.256040655	l
+26	Sales	Kate	28	m	0.142635659	x
+27	Sales	Rebecca	36	u	0.244143134	x
+28	Sales	Zoe	33	f	0.027521144	m
+29	Sales	Jasmine	76	r	0.194613168	l
+30	Sales	Amelia	56	f	0.077745027	m
+31	Sales	Danielle	60	f	0.127620621	m
+32	Sales	Tayla	48	f	0.022375247	l
+33	Sales	Elizabeth	72	f	0.260607704	s
+34	Sales	Nikita	64	f	0.101150961	x
+35	Sales	Kayla	24	f	0.16219596	m
+36	Technical	Sophia	74	f		m
+37	Technical	Luke	51	m		m
+38	Technical	Logan	47	m		x
+39	Technical	Ryan	22	m		s
+40	Technical	Michael	37	m		x
+41	Technical	Jordan	80	m		l
+42	Technical	Jayden	65	m		l
+43	Technical	Joseph	53	m		x
+44	Technical	Alexander	55	m		l
+45	Technical	Max	33	m		m
+46	Technical	Brianna	63	u		l
+47	Sales	Alice	25	g	0.16219596	l
+48	Sales	Gemma	27	f	0.142189972	l
+49	Sales	Paris	44	f	0.011634076	s
+50	Sales	Megan	64	f	0.132320295	m
